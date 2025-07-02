@@ -2,7 +2,7 @@
 name = "rustdesk"
 version = "1.4.0"
 authors = ["rustdesk <info@rustdesk.com>"]
-edition = "2025"
+edition = "2021"
 build= "build.rs"
 description = "TG Remote Desktop"
 default-run = "rustdesk"
